@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+xgrid-test-app/.vscode/extensions.json
+xgrid-test-app/.vscode/launch.json
+xgrid-test-app/.vscode/tasks.json
+xgrid-test-app/package-lock.json
